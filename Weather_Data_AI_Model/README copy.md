@@ -19,7 +19,6 @@ Task 1:
 --run prediction on the test set
 --print the results to console
 
-## D682 - AI OPTIMIZATION FOR COMPUTER SCIENTISTS TASK 2
 Task 2:
 Part B
 --apply optimization
