@@ -1,13 +1,6 @@
-# WESTERN GOVERNORS UNIVERSITY
 
-## D682 - AI OPTIMIZATION FOR COMPUTER SCIENTISTS TASK 1
 
-Welcome to D682 AI Optimization for Computer Scientists!
-
-For specific task instructions and requirements for this assessment, please refer to the course page.
-
-Emily Freund
-Student ID: 011720184
+Author: Emily Freund
 
 Task 1:
     Part C:
